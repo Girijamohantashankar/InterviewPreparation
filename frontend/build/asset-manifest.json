@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3c3eb876.css",
+    "main.js": "/static/js/main.2d872001.js",
+    "static/js/787.9e9f4ffd.chunk.js": "/static/js/787.9e9f4ffd.chunk.js",
+    "static/media/javascript.png": "/static/media/javascript.def880b43768001da0d7.png",
+    "static/media/css.png": "/static/media/css.c86f3882bc1e66d5ec86.png",
+    "static/media/mysql.png": "/static/media/mysql.f5288c1030837568c95f.png",
+    "static/media/laravel.png": "/static/media/laravel.da626a77481535a4df5b.png",
+    "static/media/angular.png": "/static/media/angular.382bb8d8e55fee32adfc.png",
+    "static/media/bootstrap.png": "/static/media/bootstrap.eb82d6e2d35123215f75.png",
+    "static/media/jquery.png": "/static/media/jquery.b36a210ecd9e8df9f368.png",
+    "static/media/html.png": "/static/media/html.24761a822cabb4ce27fb.png",
+    "static/media/signup.jpg": "/static/media/signup.735ba9a6a14be064ef7f.jpg",
+    "static/media/service.jpg": "/static/media/service.e8e6408e35e4ef431f4b.jpg",
+    "static/media/9.jpg": "/static/media/9.0c527f82086090356352.jpg",
+    "static/media/banner1.jpg": "/static/media/banner1.db3164cf77a6e7da5a00.jpg",
+    "static/media/react.png": "/static/media/react.8f464bdc1c8e02b3d4bf.png",
+    "static/media/php.png": "/static/media/php.21c98f2a9c17808d4400.png",
+    "static/media/fullstack.jpg": "/static/media/fullstack.22a49defa7cc72f9b89b.jpg",
+    "static/media/login.jpg": "/static/media/login.5626afc7a7e12a5b54c7.jpg",
+    "static/media/backend.jpg": "/static/media/backend.dd99f97812bb68cd48e6.jpg",
+    "static/media/frontend.jpg": "/static/media/frontend.7019b81270fc0fc8d4ba.jpg",
+    "static/media/head.jpg": "/static/media/head.136cfca6a90271374c04.jpg",
+    "static/media/future.png": "/static/media/future.e93844a08a8d9373fa61.png",
+    "index.html": "/index.html",
+    "main.3c3eb876.css.map": "/static/css/main.3c3eb876.css.map",
+    "main.2d872001.js.map": "/static/js/main.2d872001.js.map",
+    "787.9e9f4ffd.chunk.js.map": "/static/js/787.9e9f4ffd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3c3eb876.css",
+    "static/js/main.2d872001.js"
+  ]
+}
