@@ -1,0 +1,12 @@
+a {
+  text-decoration: none;
+}
+.domain {
+  padding: 20px;
+}
+.domain h1 {
+  text-align: center;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  color: blueviolet;
+}

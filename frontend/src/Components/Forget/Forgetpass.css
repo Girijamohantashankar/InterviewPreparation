@@ -1,0 +1,49 @@
+.Forgetpass-container{
+    
+}
+.forget-password{
+    /* background-color: antiquewhite; */
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    border-radius: 5px;
+    margin-top: 40px;
+}
+.input-fields-forget{
+   display: grid;
+}.input-fields-forget input{
+    width: 300px;
+    height: 35px;
+    border-radius: 5px;
+    padding-left: 10px;
+    border: none;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    margin-top: 10px;
+
+}.forget-password h1{
+    font-size: 30px;
+    color: blueviolet;
+}
+.input-fields-forget button{
+    margin-top: 20px;
+    height: 35px;
+    width: 100px;
+    border: none;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    background-color: blueviolet;
+    color: #fff;
+    border-radius: 5px;
+}.input-fields-forget button:hover{
+    background-color: rgb(85, 10, 155);
+}
+.for-get-button{
+    display: flex;
+    justify-content: space-between;
+}
+@media only screen and (max-width: 600px) {
+    .forget-password h1{
+        font-size: 20px;
+    }
+}

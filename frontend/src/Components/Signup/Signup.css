@@ -1,0 +1,115 @@
+.signup-page {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.signup-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  gap: 100px;
+}
+.signup_image {
+  width: 50%;
+  margin: auto;
+}
+.signup_image img {
+  width: 100%;
+}
+.signup_form {
+  width: 50%;
+}
+.signup_form h1 {
+  padding-left: 50px;
+  padding-bottom: 20px;
+  color: blueviolet;
+  font-weight: bold;
+}
+.input_field {
+  display: flex;
+  flex-direction: column;
+  width: 350px;
+  height: 75px;
+  margin-bottom: 10px;
+}
+.input_field label {
+  margin-bottom: 10px;
+}
+.input_field input {
+  height: 100px;
+  padding-left: 10px;
+  padding-right: 10px;
+  /* border: none; */
+  border-radius: 5px;
+  border: 1px solid;
+  outline: none;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+.input_field input:focus {
+  border: 1px solid blueviolet;
+}
+.forget_remember {
+  display: flex;
+  align-items: center;
+  gap: 50px;
+  margin-top: 20px;
+}
+.termandcon {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+}
+.termandcon input,
+.termandcon label,
+.forget-pass span {
+  cursor: pointer;
+  color: blueviolet;
+}
+.signup_form form button {
+  width: 350px;
+  height: 40px;
+  margin-top: 20px;
+  border-radius: 5px;
+  border: none;
+  background-color: blueviolet;
+  color: #fff;
+  font-size: 20px;
+}
+/* .signup_form form button:hover {
+  background-color: rgba(104, 13, 190, 0.953);
+} */
+.idonthave{
+  margin-top: 10px;
+}
+.signup_form button:disabled {
+  background-color: #cccccc; 
+  cursor: not-allowed;
+}#checkbox{
+  margin-top: 3px;
+}
+@media only screen and (max-width: 600px) {
+  .signup-container {
+    display: inline-block;
+    width: 100%;
+    margin: auto;
+  }
+  form h1 {
+    padding-left: 117px !important;
+    font-size: 40px;
+  }
+  .signup_image img {
+    margin: auto;
+    width: 100%;
+  }
+  .signup_form {
+    margin: auto;
+    width: 100%;
+  }
+  form {
+    margin-left: 20px;
+  }.forget_remember{
+    gap: 41px !important;
+  }
+}

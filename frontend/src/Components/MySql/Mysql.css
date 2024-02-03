@@ -1,0 +1,44 @@
+.ssc-container h1{
+    text-align: center;
+    color: blueviolet;
+    margin-top: 10px;
+    margin-bottom: 40px;
+}
+.accordion.completed {
+    border: 2px solid green;
+    border-radius: 7px;
+  }
+
+  .accordian-container{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  .accordion{
+    width: 50%;
+    margin-bottom: 20px;
+  }
+  .accordion-body p table{
+    border-collapse: collapse;
+    width: 100%;
+  }
+  td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+  }
+  
+  tr:nth-child(even) {
+    background-color: #dddddd;
+  }
+
+  @media only screen and (max-width: 600px) {
+    .accordion{
+        width: 95%;
+    }
+    .drop-images{
+      width: 100%;
+    }
+  }
